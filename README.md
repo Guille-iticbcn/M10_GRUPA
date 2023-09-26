@@ -10,6 +10,7 @@ Forma jurídica: Societat colectiva
 ## **Nom empresa:**
 Hospital Itic
 ## **Logotip empresa**
+Foto
 ## **Ubicació empresa:**
 Glòries, Barcelona Espanya
 ## **Estratègia empresa:**
