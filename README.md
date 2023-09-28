@@ -24,7 +24,7 @@ Marketing: Anuncis, valles publicitàries…
 Sistema de producció:
 Logística: Ambulàncies
 ## **Necessitats de l’empresa:**
-
+mascaretes.
 ## **Definir tipus de clients:**
 Nens petits, adolescents, adults i ancians.
 ## **Número d’empleats i el seu Rol:**
