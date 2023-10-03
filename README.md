@@ -10,7 +10,9 @@ Forma jurídica: Societat colectiva
 ## **Nom empresa:**
 Hospital tic
 ## **Logotip empresa**
-![](LogoHospitalTic.png){width='50px' height='50px'}
+
+<img src="LogoHospitalTic.png" width="500" height="350">
+
 ## **Ubicació empresa:**
 Carrer dels Escultors Claperós, 55, 63, 08018 Barcelona
 ## **Estratègia empresa:**
