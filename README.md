@@ -55,7 +55,7 @@ En resum, centrar-se en l'àmbit d'activitat nacional permet a l'hospital ITIC a
 És important destacar que la decisió de ser una Societat Anònima hauria de prendre's amb consideració de les necessitats particulars de l'Hospital TIC i les regulacions vigents al seu àmbit d'operació. La elecció d'una forma jurídica és una decisió estratègica que pot tenir un impacte significatiu en l'estructura, el finançament i el funcionament de l'hospital.
 
 ## **Nom empresa:**
-Hospital tic
+Hospital tic.
 ## **Logotip empresa**
 
 <img src="LogoHospitalTic.png" width="500" height="350">
