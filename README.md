@@ -8,11 +8,11 @@ Destí dels beneficis: amb ànim de lucre
 Forma jurídica: Societat colectiva
 
 ## **Nom empresa:**
-Hospital Itic
+Hospital tic
 ## **Logotip empresa**
-Foto
+![](LogoHospitalTic.png){width='50px' height='50px'}
 ## **Ubicació empresa:**
-Glòries, Barcelona Espanya
+Carrer dels Escultors Claperós, 55, 63, 08018 Barcelona
 ## **Estratègia empresa:**
 Missió: Guanyar diners.
 Visió: Que hi hagin hospitals a totes les ciutats d’Espanya.
