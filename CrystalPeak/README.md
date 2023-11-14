@@ -20,10 +20,18 @@
 - Página web en la que se gestionan las compras online y el transporte.
 
 ### Wireframe de las diferentes vistas
+<img src="AlquilerMaterial.png" width="550" height="350">
+<img src="Contacto.png" width="500" height="350">
+<img src="Fortfait.png" width="500" height="350">
+<img src="Home.png" width="500" height="350">
+<img src="Servicios.png" width="500" height="350">
+<img src="VentaMaterial.png" width="500" height="350">
 
 ### MockUps de los Wireframes
 
 ### Capturas de pantalla de las vistas de la página web
+
+### Capturas de pantalla sobre 
 
 ### Funcionalidades del proyecto:
 - #### Creación de empleados CRM (Customer Relationship Management) Seguimiento de clientes potenciales.
@@ -34,7 +42,7 @@
     - Nos permite tener un control absoluto de todos los productos de los que disponemos dentro de la tienda.
 - #### Administración de servicios.
     - Nos permite administrar y almacenar nuestros servicios.
-- #### Venta online.
+- #### Venta online.
     - Nos permite la venta de material, ya sea de esquí como de alta montaña, de forma online.
 - #### Servicio de solución de problemas. 
     - Permite a los clientes estar en contacto con la empresa para solucionar cualquier duda o problema que puedan llegar a tener.
