@@ -19,13 +19,25 @@
 - Sistema que registra los alquileres, las compras, el mantenimiento, clientes, trabajadores.
 - Página web en la que se gestionan las compras online y el transporte.
 
+### Wireframe de las diferentes vistas
+
+### MockUps de los Wireframes
+
+### Capturas de pantalla de las vistas de la página web
+
 ### Funcionalidades del proyecto:
-- Creación de empleados CRM (Customer Relationship Management) Seguimiento de clientes potenciales.
-- Creación de facturas.
-- Estoc de inventario.
-- Administración de servicios.
-- Venta online.
-- Servicio de solución de problemas. 
+- #### Creación de empleados CRM (Customer Relationship Management) Seguimiento de clientes potenciales.
+    - Este módulo nos permite un control sobre los clientes.
+- #### Creación de facturas.
+    - Este módulo nos permite crear faturas tanto de la compra/venta de material como de los diferentes servicios dentro de la empresa.
+- #### Estoc de inventario.
+    - Nos permite tener un control absoluto de todos los productos de los que disponemos dentro de la tienda.
+- #### Administración de servicios.
+    - Nos permite administrar y almacenar nuestros servicios.
+- #### Venta online.
+    - Nos permite la venta de material, ya sea de esquí como de alta montaña, de forma online.
+- #### Servicio de solución de problemas. 
+    - Permite a los clientes estar en contacto con la empresa para solucionar cualquier duda o problema que puedan llegar a tener.
 
 ### Modelo de Datos:
 - Base de datos PostgresSQL.
