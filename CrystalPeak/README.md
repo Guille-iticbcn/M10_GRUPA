@@ -20,7 +20,7 @@
 - Página web en la que se gestionan las compras online y el transporte.
 
 ### Wireframe de las diferentes vistas
-<img src="AlquilerMaterial.png" width="500" height="350">
+<img src="AlquilerMaterial.png" width="550" height="350">
 <img src="Contacto.png" width="500" height="350">
 <img src="Fortfait.png" width="500" height="350">
 <img src="Home.png" width="500" height="350">
