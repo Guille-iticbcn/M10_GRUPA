@@ -20,18 +20,28 @@
 - Página web en la que se gestionan las compras online y el transporte.
 
 ### Wireframe de las diferentes vistas
-<img src="AlquilerMaterial.png" width="550" height="350">
-<img src="Contacto.png" width="500" height="350">
-<img src="Fortfait.png" width="500" height="350">
-<img src="Home.png" width="500" height="350">
-<img src="Servicios.png" width="500" height="350">
-<img src="VentaMaterial.png" width="500" height="350">
+<img src="imagenes/AlquilerMaterial.png" width="550" height="350">
+<img src="imagenes/Contacto.png" width="450" height="350">
+<img src="imagenes/Fortfait.png" width="450" height="350">
+<img src="imagenes/Home.png" width="450" height="350">
+<img src="imagenes/Servicios.png" width="450" height="350">
+<img src="imagenes/VentaMaterial.png" width="450" height="350">
 
 ### MockUps de los Wireframes
+<img src="imagenes/m2.png" width="450" height="350">
+<img src="imagenes/m3.png" width="450" height="350">
+<img src="imagenes/m4.png" width="450" height="350">
+<img src="imagenes/m5.png" width="450" height="350">
+<img src="imagenes/m6.png" width="450" height="350">
 
-### Capturas de pantalla de las vistas de la página web
+### Capturas semanales Kanban
+<img src="imagenes/semana1.png">
+<img src="imagenes/semana2.png">
+<img src="imagenes/semana3.png">
+<img src="imagenes/semana4.png">
+<img src="imagenes/semana5.png">
+<img src="imagenes/semana6.png">
 
-### Capturas de pantalla sobre 
 
 ### Funcionalidades del proyecto:
 - #### Creación de empleados CRM (Customer Relationship Management) Seguimiento de clientes potenciales.
