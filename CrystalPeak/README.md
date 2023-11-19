@@ -34,6 +34,10 @@
 <img src="imagenes/m5.png" width="450" height="350">
 <img src="imagenes/m6.png" width="450" height="350">
 
+Presione el [enlace](https://www.figma.com/file/vtHUXnUfiE0da9cD33XcGW/Wireframe?type=design&node-id=0%3A1&mode=design&t=vX1iOBV84rtKPEGO-1) para ver los Wireframes y Mockups.
+
+
+
 ### Capturas semanales Kanban
 <img src="imagenes/semana1.png">
 <img src="imagenes/semana2.png">
